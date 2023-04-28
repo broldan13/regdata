@@ -1,0 +1,1 @@
+print("Bienvenido a esta aplicación esperoy sea de su agrado.")
